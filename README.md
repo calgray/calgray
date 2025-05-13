@@ -1,8 +1,8 @@
 ## Callan Gray
 
-![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
-![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0009-0006-6766-9552&color=green&style=flat-square&logo=orcid)
-![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)
+![he/him](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0009-0006-6766-9552&color=green&style=flat-square&logo=orcid)](https://orcid.org/0009-0006-6766-9552)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/callan-gray)
 
 ### Hi there 👋
 
