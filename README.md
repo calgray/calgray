@@ -1,4 +1,14 @@
+## Callan Gray
+
+![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
+![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0009-0006-6766-9552&color=green&style=flat-square&logo=orcid)
+![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)
+
 ### Hi there 👋
+
+I'm a software engineer from Western Australia working on the [SKA LOW and MID Telescope](https://www.skao.int/en) constructed in Australia and South Africa. I contribute to several open-source projects such as [boost-ext/ut](https://github.com/boost-ext/ut), [xtensor](https://github.com/xtensor-stack/xtensor) and [athreading](https://github.com/calgray/athreading).
+
+I currently work for [ICRAR](https://www.icrar.org) a non-profit research based organisation building Data Intensive solutions for Astronomy and Science.
 
 <!--
 **calgray/calgray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
